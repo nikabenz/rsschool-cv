@@ -7,12 +7,12 @@
  * LinkedIn: [Nika Benz](https://linkedin.com/in/nika-benz)
  * GitHub: [nikabenz](https://github.com/nikabenz/rsschool-cv)
 
- ***
+ 
 
 ### **Summary**
   Math and Informatic teacher
 
- ***
+ 
 
 ### **Skills**
  * Java Core
@@ -21,14 +21,14 @@
  * Functional testing
  * API testing
 
- ***
+ 
 
 ### **Tools**
  * JIRA
  * Gherkin
  * Trello
 
- ***
+ 
 
 ### **Languages**
  * English (A2)
