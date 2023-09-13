@@ -1,1 +1,1 @@
-https://nikabenz.github.io/rsschool-cv/Lana_Zelenkova_CV
+https://nikabenz.github.io/rsschool-cv/cv
