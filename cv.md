@@ -31,7 +31,7 @@
  
 
 ### **Languages**
- * English (A2)
+ * English (B1)
  * German (B1)
  * Ukrainian
  * Belarussian
